@@ -11,6 +11,7 @@ A Type of yellow journalism, fake news encapsulates pieces of news that may be h
 AIM: This helps in finding whether the heard news was real or fake
 
 TERMS:
+
      tfidfVectorizer
      
      passiveAggressive classifier
