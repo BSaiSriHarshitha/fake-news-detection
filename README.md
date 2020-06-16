@@ -12,5 +12,7 @@ AIM: This helps in finding whether the heard news was real or fake
 
 TERMS:
      tfidfVectorizer
+     
      passiveAggressive classifier
+     
      Datasets
